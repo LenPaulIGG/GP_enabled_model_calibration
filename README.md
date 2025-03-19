@@ -1,5 +1,6 @@
 # Gaussian Processes enabled model calibration in the context of deep geological disposal
-Supporting python code and simulation data for the research article "Gaussian Processes enabled model calibration in the context of deep geological disposal"
+Supporting python code and simulation data for the research article "Gaussian Processes enabled model calibration in the context of deep geological disposal" (Preprint available under 
+https://doi.org/10.48550/arXiv.2409.02576)
 
 ## License
 This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.  
